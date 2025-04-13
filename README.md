@@ -1,2 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaeru-amber&count_private=true)
+![jabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaeru-amber&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaeru-amber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
